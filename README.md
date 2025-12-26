@@ -640,7 +640,7 @@ theatre.html
 </html>
 
 # OUTPUT
-<img width="808" height="394" alt="image" src="https://github.com/user-attachments/assets/6a666e15-914f-476f-93d9-a7a97f7589a7" />
+<img width="1136" height="759" alt="image" src="https://github.com/user-attachments/assets/188dcf1a-4b31-4de6-9d79-30f8620ae94b" />
 <img width="805" height="385" alt="image" src="https://github.com/user-attachments/assets/29509e7f-f325-43e4-8ccb-b926338b4983" />
 <img width="804" height="390" alt="image" src="https://github.com/user-attachments/assets/c2d60ab4-5b01-49bd-8314-122b58ea0263" />
 <img width="805" height="391" alt="image" src="https://github.com/user-attachments/assets/df5872f3-85a4-4e8a-9046-97f6e83f920d" />
